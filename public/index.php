@@ -17,7 +17,7 @@ $uri = trim($_SERVER['REQUEST_URI'], '/');
 
 if ($uri === '') {
     require CONTROLLERS . '/index.php';
-} elseif ($uri == 'about.php') {
+} elseif ($uri == 'about') {
     require CONTROLLERS . '/about.php';
 } else {
     abort();

@@ -21,7 +21,7 @@
                 <a class="<?phpROOT?>" aria-current="page" href="/">main</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/about.php">about</a>
+                <a class="nav-link" href="/about">about</a>
                 </li>
                 <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
