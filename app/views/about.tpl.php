@@ -1,0 +1,9 @@
+<?php require  INCS . '/header.php' ?>
+    <section class="about">
+        <h2>here is h2 from about</h2>
+        <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque repellendus, voluptatem in quos recusandae, similique debitis nihil excepturi laborum molestiae dolor corporis. Praesentium debitis voluptatem sed temporibus. Aliquid nesciunt illum sunt voluptas, corporis inventore itaque impedit consequatur nulla, aliquam at aspernatur hic dignissimos enim eos repellat! Cupiditate laudantium ullam iste! Praesentium, blanditiis explicabo adipisci officia tenetur earum quidem eveniet aliquam repudiandae qui aut! Animi, at provident. Nisi iure ea quisquam, corrupti facere esse minus consequuntur similique non tempore illo nobis cum accusamus soluta rem debitis repellat dolorum sint? Voluptates voluptatem atque aspernatur fugit optio, odio, pariatur vel quia cum soluta ut fugiat voluptas vitae labore quibusdam architecto dignissimos eligendi! Deserunt aliquam provident fuga autem quaerat eos doloremque ab doloribus sint alias, harum repudiandae iste nihil voluptates hic! Culpa aut delectus numquam sint, assumenda accusamus autem doloribus reprehenderit. Quod quas dolorem cupiditate excepturi. Atque laudantium aspernatur a vero itaque iure accusamus repellendus, tenetur voluptatem dolorem? Vero quos dolorum dicta, nulla voluptas reiciendis distinctio esse hic repellat reprehenderit, pariatur adipisci tempore ex eum! Pariatur non nemo quisquam neque cum architecto? Iste voluptatem natus eveniet aliquid cupiditate saepe, praesentium, modi voluptatum tenetur veritatis harum, eos ut ducimus sint ab neque ipsa impedit nobis.
+        </p>
+
+    </section>
+<?php require INCS . '/footer.php' ?>

@@ -1,0 +1,3 @@
+DB:         incomes;
+user:       bookkeeper;
+password:   5102;

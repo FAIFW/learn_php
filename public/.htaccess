@@ -1,0 +1,4 @@
+RewriteEngine On
+# if file !exist then go to RewriteRule (.*) index.php>$1
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) index.php?$1
