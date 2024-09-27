@@ -1,4 +1,5 @@
 RewriteEngine On
 # if file !exist then go to RewriteRule (.*) index.php>$1
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) index.php?$1
+# [L, QSA] is needed for working with get requests. See more about parse_url with $_SERVER['REQUEST_URL'];
+RewriteRule (.*) index.php?$1 [L,QSA]

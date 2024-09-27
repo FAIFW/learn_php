@@ -13,7 +13,7 @@ require CORE . '/funcs.php';
 
 
 /*вторым аргументом передается нежелательный символ:*/
-$uri = trim($_SERVER['REQUEST_URI'], '/');
+$uri = trim(parse_url($_SERVER['REQUEST_URI'])['path'], '/');
 
 if ($uri === '') {
     require CONTROLLERS . '/index.php';
